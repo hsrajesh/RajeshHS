@@ -1,0 +1,14 @@
+Mini2
+-----
+
+--> Install axios (npm install --save axios)
+
+react-case-study1
+-----------------
+
+--> Install the following
+
+--> axios(npm install --save axios)
+--> reactstrap(npm install --save reactstrap)
+--> react-router-dom(npm install --save react-router-dom)
+--> bootstrap(npm install --save bootstrap)
